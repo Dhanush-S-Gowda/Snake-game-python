@@ -9,9 +9,7 @@ This project is a simple implementation of the Snake Game using Python's Turtle 
 ## Features
 
 - Classic Snake gameplay experience.
-- Colorful visuals with Turtle graphics.
-- Score tracking and display.
-- Game over screen upon collision with walls or itself.
+- Score tracking and display along with high score.
 - Simple controls using arrow keys.
 
 ## Requirements
